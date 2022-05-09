@@ -1,8 +1,8 @@
-- 👋 Hi!
-- 👀 I’m interested in learning about automation and how I can automate some tasks at work for efficiency for myself and my team.
-- 🌱 I’m currently learning Python, HTML, CSS, Powershell, and Bash.
-- 💞️ I’m looking to collaborate on learning more about scripting and programming.
-- 📫 How to reach me: NA
+I’m interested in learning about automation and scripting and how I can use scripting at work for efficiency for myself and my team.
+I'm currently a jack-of-all-trades admin overseeing systems/server, network, and security administration. However I am pursuing and looking to pivoting into cybersecurity, specifically offensive security.
+I’m currently using and/or learning Python, HTML/CSS, JavaScript, Powershell, and Bash.
+I utilize CTF's to give me real-world experience writing scripts and using that knowledge to review and reverse engineer source code.
+I’m looking to collaborate on learning more about scripting and programming and how it relates to the overall aspect of offensive security.
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
