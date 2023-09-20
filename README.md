@@ -1,8 +1,8 @@
-I’m interested in learning about automation and scripting and how I can use scripting at work for efficiency for myself and my team.<br></br>
-I'm currently a jack-of-all-trades admin overseeing systems/server, network, and security administration. However I am pursuing my core passion and looking to pivot into cybersecurity, specifically offensive security.<br></br>
-I’m currently using and/or learning Python, HTML/CSS, JavaScript, Powershell, and Bash.<br></br>
-I compete in CTF's to give me real-world experience with offensive security and writing scripts, and using that knowledge to review and reverse engineer source code and continue learning.<br></br>
-I’m looking to collaborate on learning more about scripting and programming and how I can use it to become a better asset for offensive security.
+Hello!<br></br>
+I'm currently a jack-of-all-trades Senior System Administrator overseeing systems/server, network, and security administration. My day-to-day includes technical advising to juniors, administering our network and systems, and overseeing the security posture.<br></br>
+I’m currently pursuing my Bachelors of Science in Computer Science degree from Western Governor's University.<br></br>
+In my free time I like to compete in CTF's and obtain as much knowledge as I can about pen testing and red teaming.<br></br>
+Let's connect if you're in that realm as well!
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
